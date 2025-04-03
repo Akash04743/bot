@@ -1,4 +1,4 @@
-# Tsundere bot 
+# Bot 
 
 
 Feel free to make changes. 
